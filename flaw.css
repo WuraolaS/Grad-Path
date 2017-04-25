@@ -1,0 +1,14 @@
+.jumbotron{
+    background-image: url("graduation-celebration.png");
+    width: 100;
+    margin-bottom: 70px;
+}
+.navbar{
+    color: #1E1E1E;
+
+    background-color: #FFD100
+;
+}
+.about{
+    font-size: 200%;
+}
